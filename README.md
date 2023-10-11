@@ -1,2 +1,2 @@
-# neural-networks
-Repository for educational purpose. Neuran Networks exercises
+# Neural Networks exercises
+Repository for educational purpose.
