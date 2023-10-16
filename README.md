@@ -6,4 +6,5 @@ Repository for educational purpose.
     - Tensorflow
     - Numpy
     - Matplotlib
+    - Pandas
 
