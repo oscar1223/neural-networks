@@ -1,4 +1,4 @@
-# Script for exercises.
+# Script for exercise 1
 
 '''
 Primer ejercicio con Machine Learning para pasar grados Celsius a Fahrenheit.
